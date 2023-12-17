@@ -212,6 +212,13 @@ div .texto{
         
         
         }
+
+        #navegacao{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding-right: 2px;
+        }
         
         ul#navegacao a:hover{
             background: #000000;
